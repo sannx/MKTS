@@ -1,0 +1,12 @@
+codestyle/r/indent.block.depth=1
+codestyle/r/indent.default.type=TAB
+codestyle/r/indent.group.depth=1
+codestyle/r/indent.replace_strategy=true
+codestyle/r/indent.replace_tabs.enable=false
+codestyle/r/indent.spaces.count=4
+codestyle/r/indent.wrapped_command.depth=2
+codestyle/r/nl.fdef_bodyblock.before=true
+codestyle/r/tab.size=4
+codestyle/r/ws.arg_assign.before=true
+codestyle/r/ws.arg_assign.behind=true
+eclipse.preferences.version=1
